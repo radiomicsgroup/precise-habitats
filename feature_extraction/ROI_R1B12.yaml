@@ -1,0 +1,16 @@
+# #############################  Extracted using: <Pyradiomics v3.0.1> installed in <Python.3.7> ######################################
+imageType:
+  Original: {}
+    
+setting:
+  binWidth: 12
+  label: 1
+  correctMask: True
+  interpolator: 'sitkBSpline'
+  resampledPixelSpacing: [1,1,1] 
+  
+voxelSetting:
+  kernelRadius:  1 #kernel size: 2*R+1
+  maskedKernel: true
+  initValue: nan
+  voxelBatch: 2500
