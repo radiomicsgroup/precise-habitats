@@ -14,15 +14,15 @@ Below you can find indications on (A) how to reproduce the study and (B) how to 
 
 ### Extracting 3D features with pyradiomics
 
-Here you will find a set of basic conventions that we find useful. They are part of the set of behaviours that the community users expect from each other. Please make sure you understand all of them. Remember that you can write any question or ask for advice in our specific Slack channel #coc-netiquette
+Work in #progress
 
 ### Computing habitats
 
-Be respectful with your colleagues and follow the [Code of Conduct](/coc/) rules.
+Work in progress
 
 ### Repetability and reproducibility analyses
 
-As a people-first slack organization, company accounts are not allowed.
+Work in progress.
 
 ## Citation:
 If you find any of these codes useful for your research and applications, please cite us:
