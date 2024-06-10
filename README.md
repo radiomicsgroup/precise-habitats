@@ -33,5 +33,6 @@ If you find any of these codes useful for your research and applications, please
 `Prior O, Macarro C, Navarro V, et al. Identification of Precise 3D CT Radiomics for Habitat Computation by Machine Learning in Cancer. Radiol Artif Intell. 2024;6(2):e230118.`
 
 
-If you have questions please contact Olivia Prior (oliviaprior@vhio.net) or Dr. Raquel Perez-Lopez (rperez@vhio.net).
-You can find more information of our group at https://radiomicsgroup.github.io/.
+If you have questions please contact  Dr. Raquel Perez-Lopez (rperez@vhio.net) or Olivia Prior (oliviaprior@vhio.net).
+
+You can find more information of our group [here](https://radiomicsgroup.github.io/) and more info about VHIO [here](https://vhio.net/).
