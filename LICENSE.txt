@@ -1,4 +1,4 @@
-Copyright (c) 2023, Fundació Privada Institut d’Investigació Oncològica de Vall d’Hebron. All rights reserved.
+Copyright (c) 2024, Fundació Privada Institut d’Investigació Oncològica de Vall d’Hebron. All rights reserved.
 Vall d'Hebron Institute of Oncology, VHIO
 Cellex Center, Carrer de Natzaret 115-117, 08035, Barcelona, Spain
 Tel: +34 93 254 34 50
