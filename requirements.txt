@@ -4,7 +4,6 @@ Nptyping==2.3.1
 Typing-extensions==4.4.0
 Joblib==1.2.0 
 Threadpoolctl==3.1.0
-Matplotlib==3.3.4
 Pynrrd==1.0.0
 Scipy==1.9.3
 Argparse==1.4.0
@@ -18,6 +17,4 @@ Radiomics==v3.0.1
 Nibabel==4.0.1
 Scikit-learn==1.1.3
 Munkres==1.1.4
-Statannot==0.2.3
-Statannotations==0.5.0
 Pingouin==0.5.2
