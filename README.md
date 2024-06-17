@@ -2,6 +2,8 @@
 
 #### Olivia Prior, MSc  •    Carlos Macarro, MSc •   Víctor Navarro, BSc •    Camilo Monreal, MSc •    Marta Ligero, MSc •    Alonso Garcia-Ruiz, MSc  •    Garazi Serna, PhD •    Sara Simonetti, MD, PhD •    Irene Braña, MD, PhD •   Maria Vieito, MD, PhD  •    Manuel Escobar, MD •    Jaume Capdevila, MD •    Annette T. Byrne, MD, PhD •   Rodrigo Dienstmann, MD  •    Rodrigo Toledo, PhD •    Paolo Nuciforo, MD, PhD •    Elena Garralda, MD, MSc •   Francesco Grussu, PhD  •    Kinga Bernatowicz, PhD* •    Raquel Perez-Lopez, MD, PhD*
 
+[DOCUMENTATION UNFINISHED. WORK IN PROGRESS... ]
+
 This repository contains all codes necessary to reproduce the study "Identification of Precise 3D CT Radiomics for Habitat Computation by Machine Learning in Cancer", published in Radiology:Artifical Intelligence (2024).
 You can find the published paper here: https://pubs.rsna.org/doi/10.1148/ryai.230118.
 
