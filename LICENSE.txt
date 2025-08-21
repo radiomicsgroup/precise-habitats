@@ -1,34 +1,4 @@
-Copyright (c) 2024, Fundació Privada Institut d’Investigació Oncològica de Vall d’Hebron. All rights reserved.
-Vall d'Hebron Institute of Oncology, VHIO
-Cellex Center, Carrer de Natzaret 115-117, 08035, Barcelona, Spain
-Tel: +34 93 254 34 50
-email: info@vhio.net 
-----------------------
-
-The following packages, required to run the codes present, have been developed by different authors and have their own licenses:
-
-Slicer (3D Slicer)
-https://github.com/Slicer/Slicer
-
-Python Software Foundation License (PSF):
-Python
-matplotlib
-
-BSD License:
-numpy
-scikit-image
-scikit-learn
-scipy
-pandas
-
-MIT License:
-pynrrd
-pickle
-
-Apache Software License:
-SimpleITK
----
-Copyright (c) 2024, FundaciÃ³ Privada Institut dâ€™InvestigaciÃ³ OncolÃ²gica de Vall dâ€™Hebron. All rights reserved.
+Copyright (c) 2025, Fundació Privada Institut d’Investigació Oncològica de Vall d’Hebron. All rights reserved.
 Vall d'Hebron Institute of Oncology (VHIO)
 Cellex Center, Carrer de Natzaret 115-117, 08035, Barcelona, Spain
 Tel: +34 932543450
@@ -465,7 +435,7 @@ Section 8 -- Interpretation.
 Creative Commons is not a party to its public
 licenses. Notwithstanding, Creative Commons may elect to apply one of
 its public licenses to material it publishes and in those instances
-will be considered the â€œLicensor.â€ The text of the Creative Commons
+will be considered the “Licensor.” The text of the Creative Commons
 public licenses is dedicated to the public domain under the CC0 Public
 Domain Dedication. Except for the limited purpose of indicating that
 material is shared under a Creative Commons public license or as
