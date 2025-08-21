@@ -77,9 +77,8 @@ Use the provided notebooks:
 If you find any of these codes useful for your research and applications, please cite us:
 
 ```
-Prior O, Macarro C, Navarro V, et al.
-Identification of Precise 3D CT Radiomics for Habitat Computation by Machine Learning in Cancer.
-Radiol Artif Intell. 2024;6(2):e230118.
+Prior, O., Macarro, C., Navarro, V., Monreal, C., Ligero, M., Garcia-Ruiz, A., Serna, G., Simonetti, S., Braña, I., Vieito, M., Escobar, M., Capdevila, J., Byrne, A. T., Dienstmann, R., Toledo, R., Nuciforo, P., Garralda, E., Grussu, F., Bernatowicz, K., & Perez-Lopez, R. (2024). Identification of Precise 3D CT Radiomics for Habitat Computation by Machine Learning in Cancer. Radiology. Artificial Intelligence, 6(2), e230118. https://doi.org/10.1148/ryai.230118
+
 ```
 
 ---
